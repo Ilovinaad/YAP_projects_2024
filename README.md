@@ -1,3 +1,3 @@
 # YAP_projects_2024
 
-This repository contains projects that I did to consistently learn tools and methods for data analysis
+В этом репозитории находятся проекты, сделанные за время обучения по программе "Аналитик данных расширенный" на образовательной платформе Яндекс Практикум.
